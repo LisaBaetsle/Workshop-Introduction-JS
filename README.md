@@ -89,7 +89,7 @@ let myButton = document.getElementById("button");
 - [Learn JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [Basic concepts of JavaScript](https://react.design/javascript)
 - [freecodecamp course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-- [Just google it!](https://google.com)
+- [Just Google it!](https://www.google.com)
 
 ### Challenge
 
