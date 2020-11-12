@@ -79,7 +79,7 @@ If I have something like:
 ...I can select the button with:
 
 ```js
-let myButton = document.getElementById("button");
+let myButton = document.getElementById("myButton");
 ```
 
 </details>
